@@ -25,9 +25,17 @@ form label {
 
 h1 {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 70px;
     font-family: 'Press Start 2P', cursive;
-    color: white;
+    color: #F29F05;
+}
+
+p a {
+  
+}
+
+p {
+    text-align: center;
 }
 
 div {
@@ -39,17 +47,19 @@ input {
   padding: 8px;
   margin-top: 5px;
   box-sizing: border-box; 
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 button {
   width: 100%;
   padding: 10px;
-  background-color: #007bff;
+  background-color: #F2B705;
   color: white;
   border: none;
   border-radius: 4px;
   cursor: pointer;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 10px;
 }
 
 button:hover {
